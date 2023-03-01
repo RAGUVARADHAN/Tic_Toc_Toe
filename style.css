@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  table {
+    margin: 0 auto;
+  }
+  
+  td {
+    background-color: #ddd;
+    border: 1px solid #333;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
